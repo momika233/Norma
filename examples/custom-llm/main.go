@@ -10,11 +10,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Autumn-27/norma/agentcore"
-	"github.com/Autumn-27/norma/harness"
-	"github.com/Autumn-27/norma/llm"
-	"github.com/Autumn-27/norma/permission"
-	"github.com/Autumn-27/norma/tool"
+	"github.com/momika233/norma/agentcore"
+	"github.com/momika233/norma/harness"
+	"github.com/momika233/norma/llm"
+	"github.com/momika233/norma/permission"
+	"github.com/momika233/norma/tool"
 )
 
 func newProvider() (llm.Provider, string) {

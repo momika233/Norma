@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Autumn-27/norma/llm"
-	"github.com/Autumn-27/norma/noa"
-	"github.com/Autumn-27/norma/tool"
+	"github.com/momika233/norma/llm"
+	"github.com/momika233/norma/noa"
+	"github.com/momika233/norma/tool"
 )
 
 // Every pressure decision noa makes keys off ONE number: the token count View
